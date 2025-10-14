@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi-turnConversationsWithAnAgent", "Multi-turnConversationsWithAnAgent\Multi-turnConversationsWithAnAgent.csproj", "{2ECC6774-5F19-4547-9D25-E8F6F2061206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ECC6774-5F19-4547-9D25-E8F6F2061206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ECC6774-5F19-4547-9D25-E8F6F2061206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ECC6774-5F19-4547-9D25-E8F6F2061206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ECC6774-5F19-4547-9D25-E8F6F2061206}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31E6BC0A-3F1B-458B-B1F2-3C310C5621ED}
+	EndGlobalSection
+EndGlobal
